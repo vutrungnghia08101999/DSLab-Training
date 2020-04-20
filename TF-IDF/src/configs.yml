@@ -1,8 +1,0 @@
-dataroot: /media/vutrungnghia/New Volume/DSLab-Training/datasets
-processed_train: 20news-train-processed.txt
-processed_test: 20news-test-processed.txt
-processed_full: 20news-full-processed.txt
-stop_words: stop_words.txt
-words_idfs: words_idfs.txt
-train_tf_idf: train_tf_idf.txt
-test_tf_idf: test_tf_idf.txt
