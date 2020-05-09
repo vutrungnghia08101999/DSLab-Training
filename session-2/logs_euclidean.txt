@@ -1,0 +1,403 @@
+20-05-09 13:08:57, INFO: KMEAN-SEED-0-EUCLIDEAN-SIMILARITY
+20-05-09 13:09:04, INFO: Reset all clusters to empty
+20-05-09 13:09:04, INFO: Choose cluster for each member in data
+20-05-09 13:17:41, INFO: Completed iteration 2
+20-05-09 13:17:41, INFO: No.members in cluster 0: 374
+20-05-09 13:17:41, INFO: No.members in cluster 1: 795
+20-05-09 13:17:41, INFO: No.members in cluster 2: 835
+20-05-09 13:17:41, INFO: No.members in cluster 3: 286
+20-05-09 13:17:41, INFO: No.members in cluster 4: 490
+20-05-09 13:17:41, INFO: No.members in cluster 5: 112
+20-05-09 13:17:41, INFO: No.members in cluster 6: 546
+20-05-09 13:17:41, INFO: No.members in cluster 7: 781
+20-05-09 13:17:41, INFO: No.members in cluster 8: 338
+20-05-09 13:17:41, INFO: No.members in cluster 9: 745
+20-05-09 13:17:41, INFO: No.members in cluster 10: 614
+20-05-09 13:17:41, INFO: No.members in cluster 11: 388
+20-05-09 13:17:41, INFO: No.members in cluster 12: 204
+20-05-09 13:17:41, INFO: No.members in cluster 13: 644
+20-05-09 13:17:41, INFO: No.members in cluster 14: 501
+20-05-09 13:17:41, INFO: No.members in cluster 15: 787
+20-05-09 13:17:41, INFO: No.members in cluster 16: 771
+20-05-09 13:17:41, INFO: No.members in cluster 17: 984
+20-05-09 13:17:41, INFO: No.members in cluster 18: 625
+20-05-09 13:17:41, INFO: No.members in cluster 19: 494
+20-05-09 13:17:41, INFO: Purity metric: 0.2530493194272583
+20-05-09 13:17:41, INFO: NMI metric: 0.14581133703071664
+20-05-09 13:17:41, INFO: Reset all clusters to empty
+20-05-09 13:17:41, INFO: Choose cluster for each member in data
+20-05-09 13:33:46, INFO: Completed iteration 3
+20-05-09 13:33:46, INFO: No.members in cluster 0: 384
+20-05-09 13:33:46, INFO: No.members in cluster 1: 777
+20-05-09 13:33:46, INFO: No.members in cluster 2: 698
+20-05-09 13:33:46, INFO: No.members in cluster 3: 333
+20-05-09 13:33:46, INFO: No.members in cluster 4: 555
+20-05-09 13:33:46, INFO: No.members in cluster 5: 134
+20-05-09 13:33:46, INFO: No.members in cluster 6: 567
+20-05-09 13:33:46, INFO: No.members in cluster 7: 704
+20-05-09 13:33:46, INFO: No.members in cluster 8: 667
+20-05-09 13:33:46, INFO: No.members in cluster 9: 528
+20-05-09 13:33:46, INFO: No.members in cluster 10: 485
+20-05-09 13:33:46, INFO: No.members in cluster 11: 340
+20-05-09 13:33:46, INFO: No.members in cluster 12: 174
+20-05-09 13:33:46, INFO: No.members in cluster 13: 565
+20-05-09 13:33:46, INFO: No.members in cluster 14: 724
+20-05-09 13:33:46, INFO: No.members in cluster 15: 748
+20-05-09 13:33:46, INFO: No.members in cluster 16: 812
+20-05-09 13:33:46, INFO: No.members in cluster 17: 754
+20-05-09 13:33:46, INFO: No.members in cluster 18: 697
+20-05-09 13:33:46, INFO: No.members in cluster 19: 668
+20-05-09 13:33:46, INFO: Purity metric: 0.3815626657238819
+20-05-09 13:33:46, INFO: NMI metric: 0.3259784572767991
+20-05-09 13:33:46, INFO: Reset all clusters to empty
+20-05-09 13:33:46, INFO: Choose cluster for each member in data
+20-05-09 13:46:19, INFO: Completed iteration 4
+20-05-09 13:46:19, INFO: No.members in cluster 0: 357
+20-05-09 13:46:19, INFO: No.members in cluster 1: 769
+20-05-09 13:46:19, INFO: No.members in cluster 2: 601
+20-05-09 13:46:19, INFO: No.members in cluster 3: 311
+20-05-09 13:46:19, INFO: No.members in cluster 4: 599
+20-05-09 13:46:19, INFO: No.members in cluster 5: 111
+20-05-09 13:46:19, INFO: No.members in cluster 6: 508
+20-05-09 13:46:19, INFO: No.members in cluster 7: 664
+20-05-09 13:46:19, INFO: No.members in cluster 8: 774
+20-05-09 13:46:19, INFO: No.members in cluster 9: 515
+20-05-09 13:46:19, INFO: No.members in cluster 10: 423
+20-05-09 13:46:19, INFO: No.members in cluster 11: 339
+20-05-09 13:46:19, INFO: No.members in cluster 12: 168
+20-05-09 13:46:19, INFO: No.members in cluster 13: 557
+20-05-09 13:46:19, INFO: No.members in cluster 14: 903
+20-05-09 13:46:19, INFO: No.members in cluster 15: 699
+20-05-09 13:46:19, INFO: No.members in cluster 16: 816
+20-05-09 13:46:19, INFO: No.members in cluster 17: 685
+20-05-09 13:46:19, INFO: No.members in cluster 18: 735
+20-05-09 13:46:19, INFO: No.members in cluster 19: 780
+20-05-09 13:46:19, INFO: Purity metric: 0.42884921336397386
+20-05-09 13:46:19, INFO: NMI metric: 0.40222424354475567
+20-05-09 13:46:19, INFO: Reset all clusters to empty
+20-05-09 13:46:19, INFO: Choose cluster for each member in data
+20-05-09 13:59:10, INFO: Completed iteration 5
+20-05-09 13:59:10, INFO: No.members in cluster 0: 354
+20-05-09 13:59:10, INFO: No.members in cluster 1: 766
+20-05-09 13:59:10, INFO: No.members in cluster 2: 525
+20-05-09 13:59:10, INFO: No.members in cluster 3: 316
+20-05-09 13:59:10, INFO: No.members in cluster 4: 599
+20-05-09 13:59:10, INFO: No.members in cluster 5: 100
+20-05-09 13:59:10, INFO: No.members in cluster 6: 497
+20-05-09 13:59:10, INFO: No.members in cluster 7: 640
+20-05-09 13:59:10, INFO: No.members in cluster 8: 832
+20-05-09 13:59:10, INFO: No.members in cluster 9: 517
+20-05-09 13:59:10, INFO: No.members in cluster 10: 389
+20-05-09 13:59:10, INFO: No.members in cluster 11: 332
+20-05-09 13:59:10, INFO: No.members in cluster 12: 170
+20-05-09 13:59:10, INFO: No.members in cluster 13: 538
+20-05-09 13:59:10, INFO: No.members in cluster 14: 1007
+20-05-09 13:59:10, INFO: No.members in cluster 15: 693
+20-05-09 13:59:10, INFO: No.members in cluster 16: 815
+20-05-09 13:59:10, INFO: No.members in cluster 17: 661
+20-05-09 13:59:10, INFO: No.members in cluster 18: 737
+20-05-09 13:59:10, INFO: No.members in cluster 19: 826
+20-05-09 13:59:10, INFO: Purity metric: 0.4580166165812268
+20-05-09 13:59:10, INFO: NMI metric: 0.43993406492883447
+20-05-09 13:59:10, INFO: Reset all clusters to empty
+20-05-09 13:59:10, INFO: Choose cluster for each member in data
+20-05-09 14:09:51, INFO: Completed iteration 6
+20-05-09 14:09:51, INFO: No.members in cluster 0: 364
+20-05-09 14:09:51, INFO: No.members in cluster 1: 781
+20-05-09 14:09:51, INFO: No.members in cluster 2: 465
+20-05-09 14:09:51, INFO: No.members in cluster 3: 324
+20-05-09 14:09:51, INFO: No.members in cluster 4: 558
+20-05-09 14:09:51, INFO: No.members in cluster 5: 98
+20-05-09 14:09:51, INFO: No.members in cluster 6: 496
+20-05-09 14:09:51, INFO: No.members in cluster 7: 629
+20-05-09 14:09:51, INFO: No.members in cluster 8: 890
+20-05-09 14:09:51, INFO: No.members in cluster 9: 519
+20-05-09 14:09:51, INFO: No.members in cluster 10: 386
+20-05-09 14:09:51, INFO: No.members in cluster 11: 333
+20-05-09 14:09:51, INFO: No.members in cluster 12: 173
+20-05-09 14:09:51, INFO: No.members in cluster 13: 531
+20-05-09 14:09:51, INFO: No.members in cluster 14: 1055
+20-05-09 14:09:51, INFO: No.members in cluster 15: 670
+20-05-09 14:09:51, INFO: No.members in cluster 16: 801
+20-05-09 14:09:51, INFO: No.members in cluster 17: 662
+20-05-09 14:09:51, INFO: No.members in cluster 18: 743
+20-05-09 14:09:51, INFO: No.members in cluster 19: 836
+20-05-09 14:09:51, INFO: Purity metric: 0.4726887042602086
+20-05-09 14:09:51, INFO: NMI metric: 0.46096620505976316
+20-05-09 14:09:51, INFO: Reset all clusters to empty
+20-05-09 14:09:51, INFO: Choose cluster for each member in data
+20-05-09 14:18:34, INFO: Completed iteration 7
+20-05-09 14:18:34, INFO: No.members in cluster 0: 370
+20-05-09 14:18:34, INFO: No.members in cluster 1: 789
+20-05-09 14:18:34, INFO: No.members in cluster 2: 434
+20-05-09 14:18:34, INFO: No.members in cluster 3: 334
+20-05-09 14:18:34, INFO: No.members in cluster 4: 522
+20-05-09 14:18:34, INFO: No.members in cluster 5: 98
+20-05-09 14:18:34, INFO: No.members in cluster 6: 481
+20-05-09 14:18:34, INFO: No.members in cluster 7: 620
+20-05-09 14:18:34, INFO: No.members in cluster 8: 933
+20-05-09 14:18:34, INFO: No.members in cluster 9: 516
+20-05-09 14:18:34, INFO: No.members in cluster 10: 397
+20-05-09 14:18:34, INFO: No.members in cluster 11: 330
+20-05-09 14:18:34, INFO: No.members in cluster 12: 172
+20-05-09 14:18:34, INFO: No.members in cluster 13: 534
+20-05-09 14:18:34, INFO: No.members in cluster 14: 1089
+20-05-09 14:18:34, INFO: No.members in cluster 15: 637
+20-05-09 14:18:34, INFO: No.members in cluster 16: 779
+20-05-09 14:18:34, INFO: No.members in cluster 17: 676
+20-05-09 14:18:34, INFO: No.members in cluster 18: 744
+20-05-09 14:18:34, INFO: No.members in cluster 19: 859
+20-05-09 14:18:34, INFO: Purity metric: 0.4784337988333039
+20-05-09 14:18:34, INFO: NMI metric: 0.4734948856066741
+20-05-09 14:18:34, INFO: Reset all clusters to empty
+20-05-09 14:18:34, INFO: Choose cluster for each member in data
+20-05-09 14:27:17, INFO: Completed iteration 8
+20-05-09 14:27:17, INFO: No.members in cluster 0: 371
+20-05-09 14:27:17, INFO: No.members in cluster 1: 765
+20-05-09 14:27:17, INFO: No.members in cluster 2: 415
+20-05-09 14:27:17, INFO: No.members in cluster 3: 354
+20-05-09 14:27:17, INFO: No.members in cluster 4: 512
+20-05-09 14:27:17, INFO: No.members in cluster 5: 98
+20-05-09 14:27:17, INFO: No.members in cluster 6: 465
+20-05-09 14:27:17, INFO: No.members in cluster 7: 616
+20-05-09 14:27:17, INFO: No.members in cluster 8: 967
+20-05-09 14:27:17, INFO: No.members in cluster 9: 515
+20-05-09 14:27:17, INFO: No.members in cluster 10: 404
+20-05-09 14:27:17, INFO: No.members in cluster 11: 330
+20-05-09 14:27:17, INFO: No.members in cluster 12: 177
+20-05-09 14:27:17, INFO: No.members in cluster 13: 538
+20-05-09 14:27:17, INFO: No.members in cluster 14: 1112
+20-05-09 14:27:17, INFO: No.members in cluster 15: 601
+20-05-09 14:27:17, INFO: No.members in cluster 16: 764
+20-05-09 14:27:17, INFO: No.members in cluster 17: 681
+20-05-09 14:27:17, INFO: No.members in cluster 18: 744
+20-05-09 14:27:17, INFO: No.members in cluster 19: 885
+20-05-09 14:27:17, INFO: Purity metric: 0.4830298744917801
+20-05-09 14:27:17, INFO: NMI metric: 0.4832921937405115
+20-05-09 14:27:17, INFO: Reset all clusters to empty
+20-05-09 14:27:17, INFO: Choose cluster for each member in data
+20-05-09 14:36:00, INFO: Completed iteration 9
+20-05-09 14:36:00, INFO: No.members in cluster 0: 374
+20-05-09 14:36:00, INFO: No.members in cluster 1: 750
+20-05-09 14:36:00, INFO: No.members in cluster 2: 404
+20-05-09 14:36:00, INFO: No.members in cluster 3: 373
+20-05-09 14:36:00, INFO: No.members in cluster 4: 512
+20-05-09 14:36:00, INFO: No.members in cluster 5: 97
+20-05-09 14:36:00, INFO: No.members in cluster 6: 437
+20-05-09 14:36:00, INFO: No.members in cluster 7: 609
+20-05-09 14:36:00, INFO: No.members in cluster 8: 980
+20-05-09 14:36:00, INFO: No.members in cluster 9: 514
+20-05-09 14:36:00, INFO: No.members in cluster 10: 414
+20-05-09 14:36:00, INFO: No.members in cluster 11: 330
+20-05-09 14:36:00, INFO: No.members in cluster 12: 178
+20-05-09 14:36:00, INFO: No.members in cluster 13: 535
+20-05-09 14:36:00, INFO: No.members in cluster 14: 1133
+20-05-09 14:36:00, INFO: No.members in cluster 15: 582
+20-05-09 14:36:00, INFO: No.members in cluster 16: 762
+20-05-09 14:36:00, INFO: No.members in cluster 17: 679
+20-05-09 14:36:00, INFO: No.members in cluster 18: 748
+20-05-09 14:36:00, INFO: No.members in cluster 19: 903
+20-05-09 14:36:00, INFO: Purity metric: 0.4851511401803076
+20-05-09 14:36:00, INFO: NMI metric: 0.49073374073664666
+20-05-09 14:36:00, INFO: Reset all clusters to empty
+20-05-09 14:36:00, INFO: Choose cluster for each member in data
+20-05-09 14:44:42, INFO: Completed iteration 10
+20-05-09 14:44:42, INFO: No.members in cluster 0: 375
+20-05-09 14:44:42, INFO: No.members in cluster 1: 768
+20-05-09 14:44:42, INFO: No.members in cluster 2: 401
+20-05-09 14:44:42, INFO: No.members in cluster 3: 374
+20-05-09 14:44:42, INFO: No.members in cluster 4: 509
+20-05-09 14:44:42, INFO: No.members in cluster 5: 97
+20-05-09 14:44:42, INFO: No.members in cluster 6: 404
+20-05-09 14:44:42, INFO: No.members in cluster 7: 606
+20-05-09 14:44:42, INFO: No.members in cluster 8: 985
+20-05-09 14:44:42, INFO: No.members in cluster 9: 512
+20-05-09 14:44:42, INFO: No.members in cluster 10: 424
+20-05-09 14:44:42, INFO: No.members in cluster 11: 332
+20-05-09 14:44:42, INFO: No.members in cluster 12: 180
+20-05-09 14:44:42, INFO: No.members in cluster 13: 531
+20-05-09 14:44:42, INFO: No.members in cluster 14: 1142
+20-05-09 14:44:42, INFO: No.members in cluster 15: 569
+20-05-09 14:44:42, INFO: No.members in cluster 16: 762
+20-05-09 14:44:42, INFO: No.members in cluster 17: 677
+20-05-09 14:44:42, INFO: No.members in cluster 18: 750
+20-05-09 14:44:42, INFO: No.members in cluster 19: 916
+20-05-09 14:44:42, INFO: Purity metric: 0.48780272229096694
+20-05-09 14:44:42, INFO: NMI metric: 0.4944644635888739
+20-05-09 14:44:42, INFO: Reset all clusters to empty
+20-05-09 14:44:42, INFO: Choose cluster for each member in data
+20-05-09 14:53:26, INFO: Completed iteration 11
+20-05-09 14:53:26, INFO: No.members in cluster 0: 376
+20-05-09 14:53:26, INFO: No.members in cluster 1: 778
+20-05-09 14:53:26, INFO: No.members in cluster 2: 391
+20-05-09 14:53:26, INFO: No.members in cluster 3: 369
+20-05-09 14:53:26, INFO: No.members in cluster 4: 518
+20-05-09 14:53:26, INFO: No.members in cluster 5: 97
+20-05-09 14:53:26, INFO: No.members in cluster 6: 384
+20-05-09 14:53:26, INFO: No.members in cluster 7: 600
+20-05-09 14:53:26, INFO: No.members in cluster 8: 989
+20-05-09 14:53:26, INFO: No.members in cluster 9: 513
+20-05-09 14:53:26, INFO: No.members in cluster 10: 430
+20-05-09 14:53:26, INFO: No.members in cluster 11: 332
+20-05-09 14:53:26, INFO: No.members in cluster 12: 180
+20-05-09 14:53:26, INFO: No.members in cluster 13: 527
+20-05-09 14:53:26, INFO: No.members in cluster 14: 1152
+20-05-09 14:53:26, INFO: No.members in cluster 15: 563
+20-05-09 14:53:26, INFO: No.members in cluster 16: 761
+20-05-09 14:53:26, INFO: No.members in cluster 17: 681
+20-05-09 14:53:26, INFO: No.members in cluster 18: 748
+20-05-09 14:53:26, INFO: No.members in cluster 19: 925
+20-05-09 14:53:26, INFO: Purity metric: 0.4925755700901538
+20-05-09 14:53:26, INFO: NMI metric: 0.49878203534511995
+20-05-09 14:53:26, INFO: Reset all clusters to empty
+20-05-09 14:53:26, INFO: Choose cluster for each member in data
+20-05-09 15:02:09, INFO: Completed iteration 12
+20-05-09 15:02:09, INFO: No.members in cluster 0: 376
+20-05-09 15:02:09, INFO: No.members in cluster 1: 776
+20-05-09 15:02:09, INFO: No.members in cluster 2: 386
+20-05-09 15:02:09, INFO: No.members in cluster 3: 351
+20-05-09 15:02:09, INFO: No.members in cluster 4: 519
+20-05-09 15:02:09, INFO: No.members in cluster 5: 97
+20-05-09 15:02:09, INFO: No.members in cluster 6: 369
+20-05-09 15:02:09, INFO: No.members in cluster 7: 600
+20-05-09 15:02:09, INFO: No.members in cluster 8: 991
+20-05-09 15:02:09, INFO: No.members in cluster 9: 516
+20-05-09 15:02:09, INFO: No.members in cluster 10: 427
+20-05-09 15:02:09, INFO: No.members in cluster 11: 332
+20-05-09 15:02:09, INFO: No.members in cluster 12: 180
+20-05-09 15:02:09, INFO: No.members in cluster 13: 523
+20-05-09 15:02:09, INFO: No.members in cluster 14: 1163
+20-05-09 15:02:09, INFO: No.members in cluster 15: 562
+20-05-09 15:02:09, INFO: No.members in cluster 16: 772
+20-05-09 15:02:09, INFO: No.members in cluster 17: 687
+20-05-09 15:02:09, INFO: No.members in cluster 18: 748
+20-05-09 15:02:09, INFO: No.members in cluster 19: 939
+20-05-09 15:02:09, INFO: Purity metric: 0.4964645571857875
+20-05-09 15:02:09, INFO: NMI metric: 0.5021376955287434
+20-05-09 15:02:09, INFO: Reset all clusters to empty
+20-05-09 15:02:09, INFO: Choose cluster for each member in data
+20-05-09 15:10:52, INFO: Completed iteration 13
+20-05-09 15:10:52, INFO: No.members in cluster 0: 376
+20-05-09 15:10:52, INFO: No.members in cluster 1: 770
+20-05-09 15:10:52, INFO: No.members in cluster 2: 384
+20-05-09 15:10:52, INFO: No.members in cluster 3: 343
+20-05-09 15:10:52, INFO: No.members in cluster 4: 514
+20-05-09 15:10:52, INFO: No.members in cluster 5: 97
+20-05-09 15:10:52, INFO: No.members in cluster 6: 359
+20-05-09 15:10:52, INFO: No.members in cluster 7: 603
+20-05-09 15:10:52, INFO: No.members in cluster 8: 995
+20-05-09 15:10:52, INFO: No.members in cluster 9: 517
+20-05-09 15:10:52, INFO: No.members in cluster 10: 431
+20-05-09 15:10:52, INFO: No.members in cluster 11: 332
+20-05-09 15:10:52, INFO: No.members in cluster 12: 181
+20-05-09 15:10:52, INFO: No.members in cluster 13: 517
+20-05-09 15:10:52, INFO: No.members in cluster 14: 1166
+20-05-09 15:10:52, INFO: No.members in cluster 15: 562
+20-05-09 15:10:52, INFO: No.members in cluster 16: 779
+20-05-09 15:10:52, INFO: No.members in cluster 17: 694
+20-05-09 15:10:52, INFO: No.members in cluster 18: 750
+20-05-09 15:10:52, INFO: No.members in cluster 19: 944
+20-05-09 15:10:52, INFO: Purity metric: 0.49991161392964467
+20-05-09 15:10:52, INFO: NMI metric: 0.5049981204770814
+20-05-09 15:10:52, INFO: Reset all clusters to empty
+20-05-09 15:10:52, INFO: Choose cluster for each member in data
+20-05-09 15:19:34, INFO: Completed iteration 14
+20-05-09 15:19:34, INFO: No.members in cluster 0: 377
+20-05-09 15:19:34, INFO: No.members in cluster 1: 748
+20-05-09 15:19:34, INFO: No.members in cluster 2: 380
+20-05-09 15:19:34, INFO: No.members in cluster 3: 327
+20-05-09 15:19:34, INFO: No.members in cluster 4: 515
+20-05-09 15:19:34, INFO: No.members in cluster 5: 97
+20-05-09 15:19:34, INFO: No.members in cluster 6: 348
+20-05-09 15:19:34, INFO: No.members in cluster 7: 607
+20-05-09 15:19:34, INFO: No.members in cluster 8: 1000
+20-05-09 15:19:34, INFO: No.members in cluster 9: 517
+20-05-09 15:19:34, INFO: No.members in cluster 10: 433
+20-05-09 15:19:34, INFO: No.members in cluster 11: 333
+20-05-09 15:19:34, INFO: No.members in cluster 12: 181
+20-05-09 15:19:34, INFO: No.members in cluster 13: 518
+20-05-09 15:19:34, INFO: No.members in cluster 14: 1173
+20-05-09 15:19:34, INFO: No.members in cluster 15: 565
+20-05-09 15:19:34, INFO: No.members in cluster 16: 786
+20-05-09 15:19:34, INFO: No.members in cluster 17: 718
+20-05-09 15:19:34, INFO: No.members in cluster 18: 748
+20-05-09 15:19:34, INFO: No.members in cluster 19: 943
+20-05-09 15:19:34, INFO: Purity metric: 0.5041541453066997
+20-05-09 15:19:34, INFO: NMI metric: 0.508030393772116
+20-05-09 15:19:34, INFO: Reset all clusters to empty
+20-05-09 15:19:34, INFO: Choose cluster for each member in data
+20-05-09 15:28:17, INFO: Completed iteration 15
+20-05-09 15:28:17, INFO: No.members in cluster 0: 377
+20-05-09 15:28:17, INFO: No.members in cluster 1: 725
+20-05-09 15:28:17, INFO: No.members in cluster 2: 375
+20-05-09 15:28:17, INFO: No.members in cluster 3: 316
+20-05-09 15:28:17, INFO: No.members in cluster 4: 517
+20-05-09 15:28:17, INFO: No.members in cluster 5: 97
+20-05-09 15:28:17, INFO: No.members in cluster 6: 338
+20-05-09 15:28:17, INFO: No.members in cluster 7: 607
+20-05-09 15:28:17, INFO: No.members in cluster 8: 1002
+20-05-09 15:28:17, INFO: No.members in cluster 9: 515
+20-05-09 15:28:17, INFO: No.members in cluster 10: 433
+20-05-09 15:28:17, INFO: No.members in cluster 11: 335
+20-05-09 15:28:17, INFO: No.members in cluster 12: 182
+20-05-09 15:28:17, INFO: No.members in cluster 13: 518
+20-05-09 15:28:17, INFO: No.members in cluster 14: 1186
+20-05-09 15:28:17, INFO: No.members in cluster 15: 566
+20-05-09 15:28:17, INFO: No.members in cluster 16: 788
+20-05-09 15:28:17, INFO: No.members in cluster 17: 740
+20-05-09 15:28:17, INFO: No.members in cluster 18: 751
+20-05-09 15:28:17, INFO: No.members in cluster 19: 946
+20-05-09 15:28:17, INFO: Purity metric: 0.5064521831359378
+20-05-09 15:28:17, INFO: NMI metric: 0.5098501545459067
+20-05-09 15:28:17, INFO: Reset all clusters to empty
+20-05-09 15:28:17, INFO: Choose cluster for each member in data
+20-05-09 15:37:03, INFO: Completed iteration 16
+20-05-09 15:37:03, INFO: No.members in cluster 0: 378
+20-05-09 15:37:03, INFO: No.members in cluster 1: 717
+20-05-09 15:37:03, INFO: No.members in cluster 2: 369
+20-05-09 15:37:03, INFO: No.members in cluster 3: 312
+20-05-09 15:37:03, INFO: No.members in cluster 4: 519
+20-05-09 15:37:03, INFO: No.members in cluster 5: 97
+20-05-09 15:37:03, INFO: No.members in cluster 6: 318
+20-05-09 15:37:03, INFO: No.members in cluster 7: 607
+20-05-09 15:37:03, INFO: No.members in cluster 8: 1004
+20-05-09 15:37:03, INFO: No.members in cluster 9: 514
+20-05-09 15:37:03, INFO: No.members in cluster 10: 432
+20-05-09 15:37:03, INFO: No.members in cluster 11: 335
+20-05-09 15:37:03, INFO: No.members in cluster 12: 183
+20-05-09 15:37:03, INFO: No.members in cluster 13: 517
+20-05-09 15:37:03, INFO: No.members in cluster 14: 1193
+20-05-09 15:37:03, INFO: No.members in cluster 15: 567
+20-05-09 15:37:03, INFO: No.members in cluster 16: 789
+20-05-09 15:37:03, INFO: No.members in cluster 17: 765
+20-05-09 15:37:03, INFO: No.members in cluster 18: 751
+20-05-09 15:37:03, INFO: No.members in cluster 19: 947
+20-05-09 15:37:03, INFO: Purity metric: 0.5085734488244653
+20-05-09 15:37:03, INFO: NMI metric: 0.5114979661907036
+20-05-09 15:37:03, INFO: Reset all clusters to empty
+20-05-09 15:37:03, INFO: Choose cluster for each member in data
+20-05-09 15:45:44, INFO: Completed iteration 17
+20-05-09 15:45:44, INFO: No.members in cluster 0: 380
+20-05-09 15:45:44, INFO: No.members in cluster 1: 723
+20-05-09 15:45:44, INFO: No.members in cluster 2: 362
+20-05-09 15:45:44, INFO: No.members in cluster 3: 306
+20-05-09 15:45:44, INFO: No.members in cluster 4: 521
+20-05-09 15:45:44, INFO: No.members in cluster 5: 97
+20-05-09 15:45:44, INFO: No.members in cluster 6: 294
+20-05-09 15:45:44, INFO: No.members in cluster 7: 607
+20-05-09 15:45:44, INFO: No.members in cluster 8: 1005
+20-05-09 15:45:44, INFO: No.members in cluster 9: 513
+20-05-09 15:45:44, INFO: No.members in cluster 10: 429
+20-05-09 15:45:44, INFO: No.members in cluster 11: 334
+20-05-09 15:45:44, INFO: No.members in cluster 12: 183
+20-05-09 15:45:44, INFO: No.members in cluster 13: 517
+20-05-09 15:45:44, INFO: No.members in cluster 14: 1199
+20-05-09 15:45:44, INFO: No.members in cluster 15: 568
+20-05-09 15:45:44, INFO: No.members in cluster 16: 791
+20-05-09 15:45:44, INFO: No.members in cluster 17: 784
+20-05-09 15:45:44, INFO: No.members in cluster 18: 753
+20-05-09 15:45:44, INFO: No.members in cluster 19: 948
+20-05-09 15:45:44, INFO: Purity metric: 0.5115785752165459
+20-05-09 15:45:44, INFO: NMI metric: 0.5139589368949757
+20-05-09 15:45:44, INFO: Reset all clusters to empty
+20-05-09 15:45:44, INFO: Choose cluster for each member in data
