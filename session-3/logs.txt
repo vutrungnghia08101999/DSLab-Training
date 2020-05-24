@@ -1,0 +1,397 @@
+=========== MLP - L2-0 - Hiden-256 =============
+
+20-05-24 21:14:43, INFO: [('batch_size', 32), ('models_folder', '/media/vutrungnghia/New Volume/DSLab/models'), ('n_epochs', 20), ('train_path', '/media/vutrungnghia/New Volume/DSLab/dataset/train_tf_idf.txt'), ('valid_path', '/media/vutrungnghia/New Volume/DSLab/dataset/test_tf_idf.txt'), ('weight', ''), ('word_idfs_path', '/media/vutrungnghia/New Volume/DSLab/dataset/words_idfs.txt')]
+20-05-24 21:14:58, INFO: EPOCH: 1/20
+20-05-24 21:14:58, INFO:   TRAINING PHASE:
+20-05-24 21:15:16, INFO:     avg loss: 1.4771299200658983
+20-05-24 21:15:16, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-15-16_1.pth
+20-05-24 21:15:16, INFO:   VALIDATING PHASE:
+20-05-24 21:15:18, INFO: val_loss: 0.7093445967627661 - val_acc: 0.8397504091262817
+20-05-24 21:15:18, INFO: EPOCH: 2/20
+20-05-24 21:15:18, INFO:   TRAINING PHASE:
+20-05-24 21:15:37, INFO:     avg loss: 0.22954586342922764
+20-05-24 21:15:37, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-15-37_2.pth
+20-05-24 21:15:37, INFO:   VALIDATING PHASE:
+20-05-24 21:15:38, INFO: val_loss: 0.5362978300007493 - val_acc: 0.8499734401702881
+20-05-24 21:15:38, INFO: EPOCH: 3/20
+20-05-24 21:15:38, INFO:   TRAINING PHASE:
+20-05-24 21:15:51, INFO:     avg loss: 0.07165407858669115
+20-05-24 21:15:51, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-15-51_3.pth
+20-05-24 21:15:51, INFO:   VALIDATING PHASE:
+20-05-24 21:15:53, INFO: val_loss: 0.5058388857530015 - val_acc: 0.849176824092865
+20-05-24 21:15:53, INFO: EPOCH: 4/20
+20-05-24 21:15:53, INFO:   TRAINING PHASE:
+20-05-24 21:16:07, INFO:     avg loss: 0.030438708902374687
+20-05-24 21:16:07, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-16-07_4.pth
+20-05-24 21:16:07, INFO:   VALIDATING PHASE:
+20-05-24 21:16:08, INFO: val_loss: 0.5068470593531968 - val_acc: 0.8487785458564758
+20-05-24 21:16:08, INFO: EPOCH: 5/20
+20-05-24 21:16:08, INFO:   TRAINING PHASE:
+20-05-24 21:16:23, INFO:     avg loss: 0.016469442509332057
+20-05-24 21:16:23, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-16-23_5.pth
+20-05-24 21:16:23, INFO:   VALIDATING PHASE:
+20-05-24 21:16:24, INFO: val_loss: 0.5169374487910319 - val_acc: 0.845724880695343
+20-05-24 21:16:24, INFO: EPOCH: 6/20
+20-05-24 21:16:24, INFO:   TRAINING PHASE:
+20-05-24 21:16:37, INFO:     avg loss: 0.010979615443939135
+20-05-24 21:16:37, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-16-37_6.pth
+20-05-24 21:16:37, INFO:   VALIDATING PHASE:
+20-05-24 21:16:39, INFO: val_loss: 0.5247527558279367 - val_acc: 0.8447955250740051
+20-05-24 21:16:39, INFO: EPOCH: 7/20
+20-05-24 21:16:39, INFO:   TRAINING PHASE:
+20-05-24 21:16:52, INFO:     avg loss: 0.00919473364553122
+20-05-24 21:16:52, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-16-52_7.pth
+20-05-24 21:16:52, INFO:   VALIDATING PHASE:
+20-05-24 21:16:53, INFO: val_loss: 0.5385677619811011 - val_acc: 0.843998908996582
+20-05-24 21:16:53, INFO: EPOCH: 8/20
+20-05-24 21:16:53, INFO:   TRAINING PHASE:
+20-05-24 21:30:53, INFO: 
+
+=========== MLP - L2-0.0001 - Hiden-256 =============
+
+20-05-24 21:30:53, INFO: [('batch_size', 32), ('models_folder', '/media/vutrungnghia/New Volume/DSLab/models'), ('n_epochs', 20), ('train_path', '/media/vutrungnghia/New Volume/DSLab/dataset/train_tf_idf.txt'), ('valid_path', '/media/vutrungnghia/New Volume/DSLab/dataset/test_tf_idf.txt'), ('weight', ''), ('word_idfs_path', '/media/vutrungnghia/New Volume/DSLab/dataset/words_idfs.txt')]
+20-05-24 21:31:06, INFO: EPOCH: 1/20
+20-05-24 21:31:06, INFO:   TRAINING PHASE:
+20-05-24 21:31:19, INFO:     avg loss: 1.5373170372926452
+20-05-24 21:31:19, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-31-19_1.pth
+20-05-24 21:31:19, INFO:   VALIDATING PHASE:
+20-05-24 21:31:20, INFO: val_loss: 0.7843292407766658 - val_acc: 0.8335103392601013
+20-05-24 21:31:20, INFO: EPOCH: 2/20
+20-05-24 21:31:20, INFO:   TRAINING PHASE:
+20-05-24 21:31:33, INFO:     avg loss: 0.3093592948646581
+20-05-24 21:31:33, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-31-33_2.pth
+20-05-24 21:31:33, INFO:   VALIDATING PHASE:
+20-05-24 21:31:34, INFO: val_loss: 0.6114957007207076 - val_acc: 0.8428040146827698
+20-05-24 21:31:34, INFO: EPOCH: 3/20
+20-05-24 21:31:34, INFO:   TRAINING PHASE:
+20-05-24 21:31:48, INFO:     avg loss: 0.14570695347787635
+20-05-24 21:31:49, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-31-48_3.pth
+20-05-24 21:31:49, INFO:   VALIDATING PHASE:
+20-05-24 21:31:50, INFO: val_loss: 0.5845645036997469 - val_acc: 0.8428040146827698
+20-05-24 21:31:50, INFO: EPOCH: 4/20
+20-05-24 21:31:50, INFO:   TRAINING PHASE:
+20-05-24 21:32:04, INFO:     avg loss: 0.09671768659305316
+20-05-24 21:32:04, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-32-04_4.pth
+20-05-24 21:32:04, INFO:   VALIDATING PHASE:
+20-05-24 21:32:05, INFO: val_loss: 0.585580730590172 - val_acc: 0.840945303440094
+20-05-24 21:32:05, INFO: EPOCH: 5/20
+20-05-24 21:32:05, INFO:   TRAINING PHASE:
+20-05-24 21:32:22, INFO:     avg loss: 0.07592993699552862
+20-05-24 21:32:22, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-32-22_5.pth
+20-05-24 21:32:22, INFO:   VALIDATING PHASE:
+20-05-24 21:32:23, INFO: val_loss: 0.5888454297471414 - val_acc: 0.8360329270362854
+20-05-24 21:32:23, INFO: EPOCH: 6/20
+20-05-24 21:32:23, INFO:   TRAINING PHASE:
+20-05-24 21:34:13, INFO: 
+
+=========== MLP - L2-0.1 - Hiden-256 =============
+
+20-05-24 21:34:13, INFO: [('batch_size', 32), ('models_folder', '/media/vutrungnghia/New Volume/DSLab/models'), ('n_epochs', 20), ('train_path', '/media/vutrungnghia/New Volume/DSLab/dataset/train_tf_idf.txt'), ('valid_path', '/media/vutrungnghia/New Volume/DSLab/dataset/test_tf_idf.txt'), ('weight', ''), ('word_idfs_path', '/media/vutrungnghia/New Volume/DSLab/dataset/words_idfs.txt')]
+20-05-24 21:34:26, INFO: EPOCH: 1/20
+20-05-24 21:34:26, INFO:   TRAINING PHASE:
+20-05-24 21:34:39, INFO:     avg loss: 2.994722387363743
+20-05-24 21:34:39, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-34-39_1.pth
+20-05-24 21:34:39, INFO:   VALIDATING PHASE:
+20-05-24 21:34:40, INFO: val_loss: 2.9935906371472685 - val_acc: 0.05270844325423241
+20-05-24 21:34:40, INFO: EPOCH: 2/20
+20-05-24 21:34:40, INFO:   TRAINING PHASE:
+20-05-24 21:34:53, INFO:     avg loss: 2.9935569079157864
+20-05-24 21:34:54, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-34-53_2.pth
+20-05-24 21:34:54, INFO:   VALIDATING PHASE:
+20-05-24 21:34:55, INFO: val_loss: 2.9930173416309893 - val_acc: 0.05257567763328552
+20-05-24 21:34:55, INFO: EPOCH: 3/20
+20-05-24 21:34:55, INFO:   TRAINING PHASE:
+20-05-24 21:35:06, INFO: 
+
+=========== MLP - L2-0.01 - Hiden-256 =============
+
+20-05-24 21:35:06, INFO: [('batch_size', 32), ('models_folder', '/media/vutrungnghia/New Volume/DSLab/models'), ('n_epochs', 20), ('train_path', '/media/vutrungnghia/New Volume/DSLab/dataset/train_tf_idf.txt'), ('valid_path', '/media/vutrungnghia/New Volume/DSLab/dataset/test_tf_idf.txt'), ('weight', ''), ('word_idfs_path', '/media/vutrungnghia/New Volume/DSLab/dataset/words_idfs.txt')]
+20-05-24 21:35:22, INFO: EPOCH: 1/20
+20-05-24 21:35:22, INFO:   TRAINING PHASE:
+20-05-24 21:35:41, INFO:     avg loss: 2.959029718614497
+20-05-24 21:35:41, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-35-41_1.pth
+20-05-24 21:35:41, INFO:   VALIDATING PHASE:
+20-05-24 21:35:43, INFO: val_loss: 2.916719583520469 - val_acc: 0.1776420623064041
+20-05-24 21:35:43, INFO: EPOCH: 2/20
+20-05-24 21:35:43, INFO:   TRAINING PHASE:
+20-05-24 21:35:54, INFO: 
+
+=========== MLP - L2-0.001 - Hiden-256 =============
+
+20-05-24 21:35:54, INFO: [('batch_size', 32), ('models_folder', '/media/vutrungnghia/New Volume/DSLab/models'), ('n_epochs', 20), ('train_path', '/media/vutrungnghia/New Volume/DSLab/dataset/train_tf_idf.txt'), ('valid_path', '/media/vutrungnghia/New Volume/DSLab/dataset/test_tf_idf.txt'), ('weight', ''), ('word_idfs_path', '/media/vutrungnghia/New Volume/DSLab/dataset/words_idfs.txt')]
+20-05-24 21:36:08, INFO: EPOCH: 1/20
+20-05-24 21:36:08, INFO:   TRAINING PHASE:
+20-05-24 21:36:27, INFO:     avg loss: 1.8679098945130133
+20-05-24 21:36:28, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-36-27_1.pth
+20-05-24 21:36:28, INFO:   VALIDATING PHASE:
+20-05-24 21:36:29, INFO: val_loss: 1.2084248438833625 - val_acc: 0.7988582253456116
+20-05-24 21:36:29, INFO: EPOCH: 2/20
+20-05-24 21:36:29, INFO:   TRAINING PHASE:
+20-05-24 21:36:47, INFO:     avg loss: 0.7653486455985129
+20-05-24 21:36:47, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-36-47_2.pth
+20-05-24 21:36:47, INFO:   VALIDATING PHASE:
+20-05-24 21:36:48, INFO: val_loss: 0.9429888173233494 - val_acc: 0.8179766535758972
+20-05-24 21:36:48, INFO: EPOCH: 3/20
+20-05-24 21:36:48, INFO:   TRAINING PHASE:
+20-05-24 21:37:05, INFO:     avg loss: 0.5680560616294634
+20-05-24 21:37:06, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-37-05_3.pth
+20-05-24 21:37:06, INFO:   VALIDATING PHASE:
+20-05-24 21:37:07, INFO: val_loss: 0.8621364142181895 - val_acc: 0.8281996846199036
+20-05-24 21:37:07, INFO: EPOCH: 4/20
+20-05-24 21:37:07, INFO:   TRAINING PHASE:
+20-05-24 21:37:25, INFO:     avg loss: 0.4928358301048842
+20-05-24 21:37:25, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-37-25_4.pth
+20-05-24 21:37:25, INFO:   VALIDATING PHASE:
+20-05-24 21:37:27, INFO: val_loss: 0.8321723901269541 - val_acc: 0.8251460194587708
+20-05-24 21:37:27, INFO: EPOCH: 5/20
+20-05-24 21:37:27, INFO:   TRAINING PHASE:
+20-05-24 21:37:46, INFO:     avg loss: 0.44817539633890335
+20-05-24 21:37:46, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-37-46_5.pth
+20-05-24 21:37:46, INFO:   VALIDATING PHASE:
+20-05-24 21:37:47, INFO: val_loss: 0.8091068871149153 - val_acc: 0.8271375298500061
+20-05-24 21:37:47, INFO: EPOCH: 6/20
+20-05-24 21:37:47, INFO:   TRAINING PHASE:
+20-05-24 21:38:06, INFO:     avg loss: 0.4254027888012876
+20-05-24 21:38:06, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-38-06_6.pth
+20-05-24 21:38:06, INFO:   VALIDATING PHASE:
+20-05-24 21:38:08, INFO: val_loss: 0.8006118455277563 - val_acc: 0.8274030685424805
+20-05-24 21:38:08, INFO: EPOCH: 7/20
+20-05-24 21:38:08, INFO:   TRAINING PHASE:
+20-05-24 21:38:26, INFO:     avg loss: 0.409422010820789
+20-05-24 21:38:26, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-38-26_7.pth
+20-05-24 21:38:26, INFO:   VALIDATING PHASE:
+20-05-24 21:38:28, INFO: val_loss: 0.7812024245728094 - val_acc: 0.8343069553375244
+20-05-24 21:38:28, INFO: EPOCH: 8/20
+20-05-24 21:38:28, INFO:   TRAINING PHASE:
+20-05-24 21:38:47, INFO:     avg loss: 0.39887848735614273
+20-05-24 21:38:47, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-38-47_8.pth
+20-05-24 21:38:47, INFO:   VALIDATING PHASE:
+20-05-24 21:38:49, INFO: val_loss: 0.7897174340641632 - val_acc: 0.8351035714149475
+20-05-24 21:38:49, INFO: EPOCH: 9/20
+20-05-24 21:38:49, INFO:   TRAINING PHASE:
+20-05-24 21:39:08, INFO:     avg loss: 0.3896991357547098
+20-05-24 21:39:08, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-39-08_9.pth
+20-05-24 21:39:08, INFO:   VALIDATING PHASE:
+20-05-24 21:39:09, INFO: val_loss: 0.7876721830742827 - val_acc: 0.8295273780822754
+20-05-24 21:39:09, INFO: EPOCH: 10/20
+20-05-24 21:39:09, INFO:   TRAINING PHASE:
+20-05-24 21:39:28, INFO:     avg loss: 0.38202026558571406
+20-05-24 21:39:28, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-39-28_10.pth
+20-05-24 21:39:28, INFO:   VALIDATING PHASE:
+20-05-24 21:39:29, INFO: val_loss: 0.7855282011844982 - val_acc: 0.8263409733772278
+20-05-24 21:39:29, INFO: EPOCH: 11/20
+20-05-24 21:39:29, INFO:   TRAINING PHASE:
+20-05-24 21:39:51, INFO:     avg loss: 0.3811042382404411
+20-05-24 21:39:51, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-39-51_11.pth
+20-05-24 21:39:51, INFO:   VALIDATING PHASE:
+20-05-24 21:39:52, INFO: val_loss: 0.7863957806590764 - val_acc: 0.8311205506324768
+20-05-24 21:39:52, INFO: EPOCH: 12/20
+20-05-24 21:39:52, INFO:   TRAINING PHASE:
+20-05-24 21:42:56, INFO: 
+
+=========== MLP - L2-0.0 - Hiden-128 =============
+
+20-05-24 21:42:56, INFO: [('batch_size', 32), ('models_folder', '/media/vutrungnghia/New Volume/DSLab/models'), ('n_epochs', 20), ('train_path', '/media/vutrungnghia/New Volume/DSLab/dataset/train_tf_idf.txt'), ('valid_path', '/media/vutrungnghia/New Volume/DSLab/dataset/test_tf_idf.txt'), ('weight', ''), ('word_idfs_path', '/media/vutrungnghia/New Volume/DSLab/dataset/words_idfs.txt')]
+20-05-24 21:43:10, INFO: EPOCH: 1/20
+20-05-24 21:43:10, INFO:   TRAINING PHASE:
+20-05-24 21:43:19, INFO:     avg loss: 1.7837397088763443
+20-05-24 21:43:19, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-43-19_1.pth
+20-05-24 21:43:19, INFO:   VALIDATING PHASE:
+20-05-24 21:43:20, INFO: val_loss: 0.9156783372559448 - val_acc: 0.8319171667098999
+20-05-24 21:43:20, INFO: EPOCH: 2/20
+20-05-24 21:43:20, INFO:   TRAINING PHASE:
+20-05-24 21:43:32, INFO:     avg loss: 0.3627027898515853
+20-05-24 21:43:33, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-43-32_2.pth
+20-05-24 21:43:33, INFO:   VALIDATING PHASE:
+20-05-24 21:43:34, INFO: val_loss: 0.6011303846372674 - val_acc: 0.8437334299087524
+20-05-24 21:43:34, INFO: EPOCH: 3/20
+20-05-24 21:43:34, INFO:   TRAINING PHASE:
+20-05-24 21:43:45, INFO:     avg loss: 0.13546684471535056
+20-05-24 21:43:45, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-43-45_3.pth
+20-05-24 21:43:45, INFO:   VALIDATING PHASE:
+20-05-24 21:43:47, INFO: val_loss: 0.5333181269866509 - val_acc: 0.848645806312561
+20-05-24 21:43:47, INFO: EPOCH: 4/20
+20-05-24 21:43:47, INFO:   TRAINING PHASE:
+20-05-24 21:43:59, INFO:     avg loss: 0.06121645227538226
+20-05-24 21:43:59, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-43-59_4.pth
+20-05-24 21:43:59, INFO:   VALIDATING PHASE:
+20-05-24 21:44:00, INFO: val_loss: 0.5182303093053278 - val_acc: 0.8475836515426636
+20-05-24 21:44:00, INFO: EPOCH: 5/20
+20-05-24 21:44:00, INFO:   TRAINING PHASE:
+20-05-24 21:44:12, INFO:     avg loss: 0.031857349905726216
+20-05-24 21:44:12, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-44-12_5.pth
+20-05-24 21:44:12, INFO:   VALIDATING PHASE:
+20-05-24 21:44:14, INFO: val_loss: 0.514101868890032 - val_acc: 0.8454594016075134
+20-05-24 21:44:14, INFO: EPOCH: 6/20
+20-05-24 21:44:14, INFO:   TRAINING PHASE:
+20-05-24 21:44:25, INFO:     avg loss: 0.019050708791316453
+20-05-24 21:44:25, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-44-25_6.pth
+20-05-24 21:44:25, INFO:   VALIDATING PHASE:
+20-05-24 21:44:26, INFO: val_loss: 0.5147417645092284 - val_acc: 0.8454594016075134
+20-05-24 21:44:26, INFO: EPOCH: 7/20
+20-05-24 21:44:26, INFO:   TRAINING PHASE:
+20-05-24 21:44:38, INFO:     avg loss: 0.013301290282925279
+20-05-24 21:44:38, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-44-38_7.pth
+20-05-24 21:44:38, INFO:   VALIDATING PHASE:
+20-05-24 21:44:39, INFO: val_loss: 0.5215188291713208 - val_acc: 0.8441317081451416
+20-05-24 21:44:39, INFO: EPOCH: 8/20
+20-05-24 21:44:39, INFO:   TRAINING PHASE:
+20-05-24 21:46:22, INFO: 
+
+=========== MLP - L2-0.0 - Hiden-64 =============
+
+20-05-24 21:46:22, INFO: [('batch_size', 32), ('models_folder', '/media/vutrungnghia/New Volume/DSLab/models'), ('n_epochs', 20), ('train_path', '/media/vutrungnghia/New Volume/DSLab/dataset/train_tf_idf.txt'), ('valid_path', '/media/vutrungnghia/New Volume/DSLab/dataset/test_tf_idf.txt'), ('weight', ''), ('word_idfs_path', '/media/vutrungnghia/New Volume/DSLab/dataset/words_idfs.txt')]
+20-05-24 21:46:36, INFO: EPOCH: 1/20
+20-05-24 21:46:36, INFO:   TRAINING PHASE:
+20-05-24 21:46:43, INFO:     avg loss: 2.11444040469658
+20-05-24 21:46:43, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-46-43_1.pth
+20-05-24 21:46:43, INFO:   VALIDATING PHASE:
+20-05-24 21:46:44, INFO: val_loss: 1.2683782478753898 - val_acc: 0.8182421922683716
+20-05-24 21:46:44, INFO: EPOCH: 2/20
+20-05-24 21:46:44, INFO:   TRAINING PHASE:
+20-05-24 21:46:54, INFO:     avg loss: 0.6047005676061036
+20-05-24 21:46:54, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-46-54_2.pth
+20-05-24 21:46:54, INFO:   VALIDATING PHASE:
+20-05-24 21:46:55, INFO: val_loss: 0.717300305737502 - val_acc: 0.8434678912162781
+20-05-24 21:46:55, INFO: EPOCH: 3/20
+20-05-24 21:46:55, INFO:   TRAINING PHASE:
+20-05-24 21:47:02, INFO:     avg loss: 0.24904069457771458
+20-05-24 21:47:02, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-47-02_3.pth
+20-05-24 21:47:02, INFO:   VALIDATING PHASE:
+20-05-24 21:47:03, INFO: val_loss: 0.5914435991725577 - val_acc: 0.8494423627853394
+20-05-24 21:47:03, INFO: EPOCH: 4/20
+20-05-24 21:47:03, INFO:   TRAINING PHASE:
+20-05-24 21:47:09, INFO:     avg loss: 0.12768364370735855
+20-05-24 21:47:09, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-47-09_4.pth
+20-05-24 21:47:09, INFO:   VALIDATING PHASE:
+20-05-24 21:47:10, INFO: val_loss: 0.5472018446494339 - val_acc: 0.8475836515426636
+20-05-24 21:47:10, INFO: EPOCH: 5/20
+20-05-24 21:47:10, INFO:   TRAINING PHASE:
+20-05-24 21:47:16, INFO:     avg loss: 0.07187110330532154
+20-05-24 21:47:16, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-47-16_5.pth
+20-05-24 21:47:16, INFO:   VALIDATING PHASE:
+20-05-24 21:47:17, INFO: val_loss: 0.5260177741674938 - val_acc: 0.8473181128501892
+20-05-24 21:47:17, INFO: EPOCH: 6/20
+20-05-24 21:47:17, INFO:   TRAINING PHASE:
+20-05-24 21:47:24, INFO:     avg loss: 0.043523365275765426
+20-05-24 21:47:24, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-47-24_6.pth
+20-05-24 21:47:24, INFO:   VALIDATING PHASE:
+20-05-24 21:47:25, INFO: val_loss: 0.5197717264429155 - val_acc: 0.8469198346138
+20-05-24 21:47:25, INFO: EPOCH: 7/20
+20-05-24 21:47:25, INFO:   TRAINING PHASE:
+20-05-24 21:47:31, INFO:     avg loss: 0.028232867163894917
+20-05-24 21:47:31, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-47-31_7.pth
+20-05-24 21:47:31, INFO:   VALIDATING PHASE:
+20-05-24 21:47:32, INFO: val_loss: 0.5192832328573036 - val_acc: 0.8475836515426636
+20-05-24 21:47:32, INFO: EPOCH: 8/20
+20-05-24 21:47:32, INFO:   TRAINING PHASE:
+20-05-24 21:47:38, INFO:     avg loss: 0.019484248833323517
+20-05-24 21:47:38, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-47-38_8.pth
+20-05-24 21:47:38, INFO:   VALIDATING PHASE:
+20-05-24 21:47:39, INFO: val_loss: 0.5210627015923416 - val_acc: 0.8454594016075134
+20-05-24 21:47:39, INFO: EPOCH: 9/20
+20-05-24 21:47:39, INFO:   TRAINING PHASE:
+20-05-24 21:47:45, INFO:     avg loss: 0.014354928729363248
+20-05-24 21:47:45, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-47-45_9.pth
+20-05-24 21:47:45, INFO:   VALIDATING PHASE:
+20-05-24 21:47:46, INFO: val_loss: 0.527304367647485 - val_acc: 0.842671275138855
+20-05-24 21:47:46, INFO: EPOCH: 10/20
+20-05-24 21:47:46, INFO:   TRAINING PHASE:
+20-05-24 21:48:15, INFO: 
+20-05-24 21:48:34, INFO: 
+
+=========== MLP - L2-0.0 - Hiden-256 - Sigmoid (all above using Relu) =============
+
+20-05-24 21:48:34, INFO: [('batch_size', 32), ('models_folder', '/media/vutrungnghia/New Volume/DSLab/models'), ('n_epochs', 20), ('train_path', '/media/vutrungnghia/New Volume/DSLab/dataset/train_tf_idf.txt'), ('valid_path', '/media/vutrungnghia/New Volume/DSLab/dataset/test_tf_idf.txt'), ('weight', ''), ('word_idfs_path', '/media/vutrungnghia/New Volume/DSLab/dataset/words_idfs.txt')]
+20-05-24 21:48:48, INFO: EPOCH: 1/20
+20-05-24 21:48:48, INFO:   TRAINING PHASE:
+20-05-24 21:49:04, INFO:     avg loss: 2.8204834362591074
+20-05-24 21:49:04, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-49-04_1.pth
+20-05-24 21:49:04, INFO:   VALIDATING PHASE:
+20-05-24 21:49:05, INFO: val_loss: 2.6092743882459337 - val_acc: 0.3434678614139557
+20-05-24 21:49:05, INFO: EPOCH: 2/20
+20-05-24 21:49:05, INFO:   TRAINING PHASE:
+20-05-24 21:49:21, INFO:     avg loss: 1.9364957938414276
+20-05-24 21:49:21, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-49-21_2.pth
+20-05-24 21:49:21, INFO:   VALIDATING PHASE:
+20-05-24 21:49:23, INFO: val_loss: 1.6205636863688238 - val_acc: 0.7766861319541931
+20-05-24 21:49:23, INFO: EPOCH: 3/20
+20-05-24 21:49:23, INFO:   TRAINING PHASE:
+20-05-24 21:49:39, INFO:     avg loss: 0.9832589964005178
+20-05-24 21:49:39, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-49-39_3.pth
+20-05-24 21:49:39, INFO:   VALIDATING PHASE:
+20-05-24 21:49:40, INFO: val_loss: 1.0362901364433847 - val_acc: 0.8173127770423889
+20-05-24 21:49:40, INFO: EPOCH: 4/20
+20-05-24 21:49:40, INFO:   TRAINING PHASE:
+20-05-24 21:49:56, INFO:     avg loss: 0.5339601636881202
+20-05-24 21:49:56, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-49-56_4.pth
+20-05-24 21:49:56, INFO:   VALIDATING PHASE:
+20-05-24 21:49:57, INFO: val_loss: 0.7839565381241553 - val_acc: 0.8400159478187561
+20-05-24 21:49:57, INFO: EPOCH: 5/20
+20-05-24 21:49:57, INFO:   TRAINING PHASE:
+20-05-24 21:50:13, INFO:     avg loss: 0.32875760183309904
+20-05-24 21:50:13, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-50-13_5.pth
+20-05-24 21:50:13, INFO:   VALIDATING PHASE:
+20-05-24 21:50:15, INFO: val_loss: 0.6687221299190187 - val_acc: 0.8389537930488586
+20-05-24 21:50:15, INFO: EPOCH: 6/20
+20-05-24 21:50:15, INFO:   TRAINING PHASE:
+20-05-24 21:50:30, INFO:     avg loss: 0.22015057234180802
+20-05-24 21:50:30, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-50-30_6.pth
+20-05-24 21:50:30, INFO:   VALIDATING PHASE:
+20-05-24 21:50:32, INFO: val_loss: 0.6052627978145095 - val_acc: 0.8453266024589539
+20-05-24 21:50:32, INFO: EPOCH: 7/20
+20-05-24 21:50:32, INFO:   TRAINING PHASE:
+20-05-24 21:50:50, INFO:     avg loss: 0.15366437581422285
+20-05-24 21:50:50, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-50-50_7.pth
+20-05-24 21:50:50, INFO:   VALIDATING PHASE:
+20-05-24 21:50:52, INFO: val_loss: 0.56625263241777 - val_acc: 0.8473181128501892
+20-05-24 21:50:52, INFO: EPOCH: 8/20
+20-05-24 21:50:52, INFO:   TRAINING PHASE:
+20-05-24 21:51:11, INFO:     avg loss: 0.10943339768529138
+20-05-24 21:51:11, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-51-11_8.pth
+20-05-24 21:51:11, INFO:   VALIDATING PHASE:
+20-05-24 21:51:13, INFO: val_loss: 0.5424718840193128 - val_acc: 0.8485130071640015
+20-05-24 21:51:13, INFO: EPOCH: 9/20
+20-05-24 21:51:13, INFO:   TRAINING PHASE:
+20-05-24 21:51:32, INFO:     avg loss: 0.0792570648372795
+20-05-24 21:51:32, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-51-32_9.pth
+20-05-24 21:51:32, INFO:   VALIDATING PHASE:
+20-05-24 21:51:33, INFO: val_loss: 0.5282924348093763 - val_acc: 0.8482474684715271
+20-05-24 21:51:33, INFO: EPOCH: 10/20
+20-05-24 21:51:33, INFO:   TRAINING PHASE:
+20-05-24 21:51:53, INFO:     avg loss: 0.05813085243819732
+20-05-24 21:51:53, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-51-53_10.pth
+20-05-24 21:51:53, INFO:   VALIDATING PHASE:
+20-05-24 21:51:54, INFO: val_loss: 0.5253835972388627 - val_acc: 0.848645806312561
+20-05-24 21:51:54, INFO: EPOCH: 11/20
+20-05-24 21:51:54, INFO:   TRAINING PHASE:
+20-05-24 21:52:14, INFO:     avg loss: 0.043645624694985216
+20-05-24 21:52:14, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-52-14_11.pth
+20-05-24 21:52:14, INFO:   VALIDATING PHASE:
+20-05-24 21:52:16, INFO: val_loss: 0.5183895507899612 - val_acc: 0.8467870354652405
+20-05-24 21:52:16, INFO: EPOCH: 12/20
+20-05-24 21:52:16, INFO:   TRAINING PHASE:
+20-05-24 21:52:35, INFO:     avg loss: 0.03291128300142221
+20-05-24 21:52:35, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-52-35_12.pth
+20-05-24 21:52:35, INFO:   VALIDATING PHASE:
+20-05-24 21:52:37, INFO: val_loss: 0.5149301180514134 - val_acc: 0.8471853137016296
+20-05-24 21:52:37, INFO: EPOCH: 13/20
+20-05-24 21:52:37, INFO:   TRAINING PHASE:
+20-05-24 21:52:57, INFO:     avg loss: 0.025019964698121934
+20-05-24 21:52:58, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-52-57_13.pth
+20-05-24 21:52:58, INFO:   VALIDATING PHASE:
+20-05-24 21:53:00, INFO: val_loss: 0.5126726510229733 - val_acc: 0.8479819297790527
+20-05-24 21:53:00, INFO: EPOCH: 14/20
+20-05-24 21:53:00, INFO:   TRAINING PHASE:
+20-05-24 21:53:23, INFO:     avg loss: 0.01950470040262072
+20-05-24 21:53:24, INFO:     /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-53-23_14.pth
+20-05-24 21:53:24, INFO:   VALIDATING PHASE:
+20-05-24 21:53:25, INFO: val_loss: 0.5130726130351828 - val_acc: 0.8459904193878174
+20-05-24 21:53:25, INFO: EPOCH: 15/20
+20-05-24 21:53:25, INFO:   TRAINING PHASE:
+
+
+=> BEST MODEL:
+    L2-0.0 - 256 - ReLu
+    VALID_ACC = 85% 
+    NAME: /media/vutrungnghia/New Volume/DSLab/models/checkpoint_20-05-24_21-15-37_2.pth
