@@ -1,0 +1,47 @@
+20-06-11 11:09:01, INFO: [('dataroot', '/media/vutrungnghia/New Volume/DSLab/dataset'), ('w2v_path', '/media/vutrungnghia/New Volume/DSLab/dataset/w2v')]
+20-06-11 11:09:01, INFO: Create vocabulary with freq > 10
+20-06-11 11:09:01, INFO: Processing: /media/vutrungnghia/New Volume/DSLab/dataset/20news-bydate-train
+20-06-11 11:09:01, INFO: Processed newsgroup: alt.atheism - label: 0 - n_files: 480
+20-06-11 11:09:01, INFO: Processed newsgroup: comp.graphics - label: 1 - n_files: 584
+20-06-11 11:09:01, INFO: Processed newsgroup: comp.os.ms-windows.misc - label: 2 - n_files: 591
+20-06-11 11:09:01, INFO: Processed newsgroup: comp.sys.ibm.pc.hardware - label: 3 - n_files: 590
+20-06-11 11:09:01, INFO: Processed newsgroup: comp.sys.mac.hardware - label: 4 - n_files: 578
+20-06-11 11:09:02, INFO: Processed newsgroup: comp.windows.x - label: 5 - n_files: 593
+20-06-11 11:09:02, INFO: Processed newsgroup: misc.forsale - label: 6 - n_files: 585
+20-06-11 11:09:02, INFO: Processed newsgroup: rec.autos - label: 7 - n_files: 594
+20-06-11 11:09:02, INFO: Processed newsgroup: rec.motorcycles - label: 8 - n_files: 598
+20-06-11 11:09:02, INFO: Processed newsgroup: rec.sport.baseball - label: 9 - n_files: 597
+20-06-11 11:09:03, INFO: Processed newsgroup: rec.sport.hockey - label: 10 - n_files: 600
+20-06-11 11:09:03, INFO: Processed newsgroup: sci.crypt - label: 11 - n_files: 595
+20-06-11 11:09:03, INFO: Processed newsgroup: sci.electronics - label: 12 - n_files: 591
+20-06-11 11:09:03, INFO: Processed newsgroup: sci.med - label: 13 - n_files: 594
+20-06-11 11:09:03, INFO: Processed newsgroup: sci.space - label: 14 - n_files: 593
+20-06-11 11:09:04, INFO: Processed newsgroup: soc.religion.christian - label: 15 - n_files: 599
+20-06-11 11:09:04, INFO: Processed newsgroup: talk.politics.guns - label: 16 - n_files: 546
+20-06-11 11:09:04, INFO: Processed newsgroup: talk.politics.mideast - label: 17 - n_files: 564
+20-06-11 11:09:04, INFO: Processed newsgroup: talk.politics.misc - label: 18 - n_files: 465
+20-06-11 11:09:04, INFO: Processed newsgroup: talk.religion.misc - label: 19 - n_files: 377
+20-06-11 11:09:05, INFO: train vocab_size: 18986/130131
+20-06-11 11:09:05, INFO: Processing: /media/vutrungnghia/New Volume/DSLab/dataset/20news-bydate-test
+20-06-11 11:09:05, INFO: Processed newsgroup: alt.atheism - label: 0 - n_files: 209
+20-06-11 11:09:05, INFO: Processed newsgroup: comp.graphics - label: 1 - n_files: 317
+20-06-11 11:09:05, INFO: Processed newsgroup: comp.os.ms-windows.misc - label: 2 - n_files: 317
+20-06-11 11:09:05, INFO: Processed newsgroup: comp.sys.ibm.pc.hardware - label: 3 - n_files: 317
+20-06-11 11:09:05, INFO: Processed newsgroup: comp.sys.mac.hardware - label: 4 - n_files: 273
+20-06-11 11:09:05, INFO: Processed newsgroup: comp.windows.x - label: 5 - n_files: 284
+20-06-11 11:09:05, INFO: Processed newsgroup: misc.forsale - label: 6 - n_files: 292
+20-06-11 11:09:05, INFO: Processed newsgroup: rec.autos - label: 7 - n_files: 302
+20-06-11 11:09:05, INFO: Processed newsgroup: rec.motorcycles - label: 8 - n_files: 312
+20-06-11 11:09:05, INFO: Processed newsgroup: rec.sport.baseball - label: 9 - n_files: 333
+20-06-11 11:09:05, INFO: Processed newsgroup: rec.sport.hockey - label: 10 - n_files: 327
+20-06-11 11:09:05, INFO: Processed newsgroup: sci.crypt - label: 11 - n_files: 346
+20-06-11 11:09:06, INFO: Processed newsgroup: sci.electronics - label: 12 - n_files: 348
+20-06-11 11:09:06, INFO: Processed newsgroup: sci.med - label: 13 - n_files: 396
+20-06-11 11:09:06, INFO: Processed newsgroup: sci.space - label: 14 - n_files: 370
+20-06-11 11:09:06, INFO: Processed newsgroup: soc.religion.christian - label: 15 - n_files: 398
+20-06-11 11:09:06, INFO: Processed newsgroup: talk.politics.guns - label: 16 - n_files: 364
+20-06-11 11:09:06, INFO: Processed newsgroup: talk.politics.mideast - label: 17 - n_files: 376
+20-06-11 11:09:06, INFO: Processed newsgroup: talk.politics.misc - label: 18 - n_files: 310
+20-06-11 11:09:06, INFO: Processed newsgroup: talk.religion.misc - label: 19 - n_files: 251
+20-06-11 11:09:07, INFO: Encode train and test data with vocab, 0 for unkown and 1 for padding, size = 500
+20-06-11 11:09:09, INFO: Conpleted
